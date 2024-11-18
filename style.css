@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.header{
+    border-radius: 10px;
+    height: 50px;
+    width: 800px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
+.head1{
+    display: flex;
+    margin-left: 30px;
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: black;
+    color: yellow;
+    text-decoration: none;   
+}
+.head1 h1{
+    font-size:large;
+    margin-top: 15px;
+}
+.head1 img{
+    height: 20px;
+    width: 30px;
+    margin-top: 15px;
+}
+.head3 h1{
+    font-size: large;
+    margin-top: 15px;
+    
+}
+ul{
+    display: flex;
+    margin-left: 80px;
+}
+li{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.head3{
+    margin-left: 100px;
+    background-color: black;
+    color: yellow;
+    border: 2px solid;
+    border-radius: 20px;
+
+}
+.item1{
+    margin-top: 1px;
+    border: 20px;
+    height: 200px;
+    width: 400px;
+    background-color: whitesss;
+    color: black;
+    margin-left: 400px;
+}
+.item1 p{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 50px;
+    font-style: bold;
+}
+.item2 {
+    margin-top: 100px;
+    border: 20px;
+    height: 200px;
+    width: 400px;
+    background-color: whitesss;
+    color: black;
+    margin-left: 400px;
+}
+.item2 p{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    font-style: bold;
+}
+.item3{
+    height: 50px;
+    width: 200px;
+}
+.item3 button{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 300px;
+    margin-left: 450px;
+}
+.item4{
+    background-color: blue;
+    color: yellow;
+    text-align: center;
+    margin-top: 50px;
+}
+.item4 h1{
+ font-size: 30px;
+
+}
+.item5{
+    
+    border: 20px;
+    height: 200px;
+    width: 400px;
+    background-color: whitesss;
+    color: black;
+    margin-left: 400px;
+}
+.item5 p{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    font-style: bold;
+}
+.item6{
+    border: 20px;
+    height: 200px;
+    width: 400px;
+    background-color: whitesss;
+    color: black;
+    margin-left: 400px;
+
+}
+.item6 p{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    font-style: bold;
+}
+.card{
+    height: auto;
+    width: auto;
+}
+.arshad{
+    display: flex;
+    
+}
+.arshad1{
+
+}
